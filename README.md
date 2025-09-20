@@ -25,3 +25,15 @@ Benefits1. Efficient Item Management: HashSet ensures unique item IDs, and custo
 3. Interactive Console Interface: The menu-driven interface provides an easy-to-use way to perform operations.
 
 Overall, this project demonstrates a well-structured and efficient Order Management System using Java, HashSet, and custom exceptions.
+
+<img width="1815" height="792" alt="Screenshot 2025-09-20 083127" src="https://github.com/user-attachments/assets/173d84d4-9f98-4af6-83b2-61b9d1cd9b11" />
+<img width="511" height="495" alt="Screenshot 2025-09-20 083140" src="https://github.com/user-attachments/assets/04ceebcc-8281-42b1-bce1-777f6ade9197" />
+<img width="1777" height="710" alt="Screenshot 2025-09-20 083534" src="https://github.com/user-attachments/assets/64ad0acc-38bc-479a-9d6b-da725a11ab78" />
+<img width="406" height="742" alt="Screenshot 2025-09-20 083559" src="https://github.com/user-attachments/assets/ed02cc26-8966-496c-9e5f-1de65c5af2a6" />
+<img width="469" height="789" alt="Screenshot 2025-09-20 083621" src="https://github.com/user-attachments/assets/1fad7507-837e-47e5-99ff-8d1aec53c158" />
+<img width="457" height="672" alt="Screenshot 2025-09-20 083635" src="https://github.com/user-attachments/assets/e0128892-b01a-43a2-8d2f-557a2ae4470a" />
+
+
+
+
+
